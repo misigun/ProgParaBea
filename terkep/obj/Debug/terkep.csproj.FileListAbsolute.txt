@@ -1,0 +1,29 @@
+c:\users\barna mihály\documents\visual studio 2015\Projects\terkep\terkep\bin\Debug\terkep.exe.config
+C:\Users\Barna Mihály\Documents\Visual Studio 2015\Projects\terkep\terkep\bin\Debug\terkep.exe
+C:\Users\Barna Mihály\Documents\Visual Studio 2015\Projects\terkep\terkep\bin\Debug\terkep.pdb
+C:\Users\Barna Mihály\Documents\Visual Studio 2015\Projects\terkep\terkep\obj\Debug\terkep.csprojResolveAssemblyReference.cache
+C:\Users\Barna Mihály\Documents\Visual Studio 2015\Projects\terkep\terkep\obj\Debug\terkep.Form1.resources
+C:\Users\Barna Mihály\Documents\Visual Studio 2015\Projects\terkep\terkep\obj\Debug\terkep.Properties.Resources.resources
+C:\Users\Barna Mihály\Documents\Visual Studio 2015\Projects\terkep\terkep\obj\Debug\terkep.csproj.GenerateResource.Cache
+C:\Users\Barna Mihály\Documents\Visual Studio 2015\Projects\terkep\terkep\obj\Debug\terkep.exe
+C:\Users\Barna Mihály\Documents\Visual Studio 2015\Projects\terkep\terkep\obj\Debug\terkep.pdb
+C:\Users\misigun\Downloads\terkep-20191025T173222Z-001\terkep\terkep\bin\Debug\terkep.exe.config
+C:\Users\misigun\Downloads\terkep-20191025T173222Z-001\terkep\terkep\bin\Debug\terkep.exe
+C:\Users\misigun\Downloads\terkep-20191025T173222Z-001\terkep\terkep\bin\Debug\terkep.pdb
+C:\Users\misigun\Downloads\terkep-20191025T173222Z-001\terkep\terkep\obj\Debug\terkep.csprojAssemblyReference.cache
+C:\Users\misigun\Downloads\terkep-20191025T173222Z-001\terkep\terkep\obj\Debug\terkep.Form1.resources
+C:\Users\misigun\Downloads\terkep-20191025T173222Z-001\terkep\terkep\obj\Debug\terkep.Properties.Resources.resources
+C:\Users\misigun\Downloads\terkep-20191025T173222Z-001\terkep\terkep\obj\Debug\terkep.csproj.GenerateResource.cache
+C:\Users\misigun\Downloads\terkep-20191025T173222Z-001\terkep\terkep\obj\Debug\terkep.csproj.CoreCompileInputs.cache
+C:\Users\misigun\Downloads\terkep-20191025T173222Z-001\terkep\terkep\obj\Debug\terkep.exe
+C:\Users\misigun\Downloads\terkep-20191025T173222Z-001\terkep\terkep\obj\Debug\terkep.pdb
+C:\Users\misigunDorm\Desktop\ProgParaBea-master\terkep\terkep\bin\Debug\terkep.exe.config
+C:\Users\misigunDorm\Desktop\ProgParaBea-master\terkep\terkep\bin\Debug\terkep.exe
+C:\Users\misigunDorm\Desktop\ProgParaBea-master\terkep\terkep\bin\Debug\terkep.pdb
+C:\Users\misigunDorm\Desktop\ProgParaBea-master\terkep\terkep\obj\Debug\terkep.csprojAssemblyReference.cache
+C:\Users\misigunDorm\Desktop\ProgParaBea-master\terkep\terkep\obj\Debug\terkep.Form1.resources
+C:\Users\misigunDorm\Desktop\ProgParaBea-master\terkep\terkep\obj\Debug\terkep.Properties.Resources.resources
+C:\Users\misigunDorm\Desktop\ProgParaBea-master\terkep\terkep\obj\Debug\terkep.csproj.GenerateResource.cache
+C:\Users\misigunDorm\Desktop\ProgParaBea-master\terkep\terkep\obj\Debug\terkep.csproj.CoreCompileInputs.cache
+C:\Users\misigunDorm\Desktop\ProgParaBea-master\terkep\terkep\obj\Debug\terkep.exe
+C:\Users\misigunDorm\Desktop\ProgParaBea-master\terkep\terkep\obj\Debug\terkep.pdb
